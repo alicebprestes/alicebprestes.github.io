@@ -1,1 +1,10 @@
-{"meta":{"username":"alicebprestes","repositoryName":"alicebprestes.github.io","branch":"master"},"site":{"title":"Alice Prestes","description":"Designer, Ilustradora, Parva : sei Photoshop boy!","logo":"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/1957848_10203290916704846_559643286_o.jpg","cover":"http://i.imgur.com/aKp4MYv.jpg","url":"https://alicebprestes.github.io"},"socialnetwork":{"email":"alicebprestes@gmail.com"},"theme":{"name":"Uno","url":"//alicebprestes.github.io/themes/Uno"}}
+{
+  "meta": {
+    "username": "alicebprestes",
+    "repositoryName": "alicebprestes.github.io",
+    "branch": "master"
+  },
+  "theme": {
+    "name": "Casper"
+  }
+}
